@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeaverCore": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\repos_fast\\WeaverCore\\SampleProgram\\bin\\Debug\\netcoreapp3.1\\SampleProgram.dll\""
+    }
+  }
+}
